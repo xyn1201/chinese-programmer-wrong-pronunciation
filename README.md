@@ -16,22 +16,16 @@
 | Apache | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=1)  /ə'pætʃɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Apache&type=2)  /əˈpætʃi/ |  ❌ /ʌpʌtʃ/ |
 | app | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=1)  /æp/ | [🔊](https://dict.youdao.com/dictvoice?audio=app&type=2)  /æp/ |  ❌ /eipi'pi/ |
 | archive | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=1)  /'ɑːkaɪv/ | [🔊](https://dict.youdao.com/dictvoice?audio=archive&type=2)  /'ɑːkaɪv/ |  ❌ /'ətʃɪv/ |
-| array | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=1)  /ə'rei/ | [🔊](https://dict.youdao.com/dictvoice?audio=array&type=2)  /əˈreɪ/ |  ❌ /æ'rei/ |
 | ASCII | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=1)  /'æski/ | [🔊](https://dict.youdao.com/dictvoice?audio=ascii&type=2)  /ˈæski/ |  ❌ /ɑːsk/ |
-| aspect | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=1)  /'æspekt/ | [🔊](https://dict.youdao.com/dictvoice?audio=aspect&type=2)  /ˈæspekt/ |  ❌ /ə'spekt/ |
 | async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /'æsɪŋk/ |
-| avatar | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=1)  /'ævətɑː/ | [🔊](https://dict.youdao.com/dictvoice?audio=avatar&type=2)  /ˈævətɑːr/ |  ❌ /ə'vʌtɑ/ |
 | Azure | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=1)  /'æʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=azure&type=2)  /ˈæʒər/ |  ❌ /ˈæzʊʒə/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
 | Chrome | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=1) /krəʊm/ | [🔊](https://dict.youdao.com/dictvoice?audio=chrome&type=2) /kroʊm/ |  ❌ /tʃɔːm/ |
-| clang | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=1)  /klæŋ/ | [🔊](https://dict.youdao.com/dictvoice?audio=clang&type=2)  /klæŋ/ |  ❌ /sɪlæŋ/ |
-| daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
 | deny | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=1)  /dɪ'naɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=2)  /dɪˈnaɪ/ |  ❌ /'dæni/ |
 | deprecate | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=1) /ˈdeprəkeɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=2) /ˈdeprəkeɪt/ |  |
 | deque | [🔊](https://dict.youdao.com/dictvoice?audio=deque&type=1)  /'dek/ | [🔊](https://dict.youdao.com/dictvoice?audio=deque&type=2)  /dɛk/ |  ❌ /di'kju/ |
-| digest | [🔊](https://dict.youdao.com/dictvoice?audio=digest&type=1)  n. /'dɑɪdʒɛst/ v. /dɑɪ'dʒɛst/ | [🔊](https://dict.youdao.com/dictvoice?audio=digest&type=2)  /daɪˈdʒest,dɪˈdʒest/ |  ❌ /'dɪgɛst/ |
 | Dijkstra | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)  Dutch:/ˈdɛikstra/ English:/ˈdaɪkstrə/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)    |   |
 | Django | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=1)  /ˈdʒæŋɡoʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=2)  /ˈdʒæŋɡoʊ/ |  ❌ /diˈdʒæŋɡoʊ/ |
 | doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
@@ -40,7 +34,6 @@
 | epoch  | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
-| event | [🔊](https://dict.youdao.com/dictvoice?audio=event&type=1)  /ɪ'vent/ | [🔊](https://dict.youdao.com/dictvoice?audio=event&type=2)  /ɪˈvent/ |  ❌ /'ɪvənt/ |
 | facade | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | format | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
@@ -51,15 +44,8 @@
 | GraphQL | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=1)  /græf kju ɛl/ | [🔊](https://dict.youdao.com/dictvoice?audio=GraphQL&type=2)  /græf kju ɛl/ |  ❌ /dʒɪgræf kju ɛl/ |
 | GUI | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=1)  /ˈɡu:i/ | [🔊](https://dict.youdao.com/dictvoice?audio={GUI}&type=2)  /ˈɡu:i/ |  |
 | Haskell | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=1)  /ˈhæskəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=haskell&type=2)  /ˈhæskəl/ |  ❌ /hæˈskəl/ |
-| height | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=1)  /haɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=height&type=2)  /haɪt/ |  ❌ /heɪt/ |
-| hidden | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=1)  /'hɪdn/ | [🔊](https://dict.youdao.com/dictvoice?audio=hidden&type=2)  /ˈhɪdn/ |  ❌ /'haɪdn/ |
-| image | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=1)  /'ɪmɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=image&type=2)  /ˈɪmɪdʒ/ |  ❌ /ɪ'meɪdʒ/ |
-| implement | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=1)  /'ɪmplɪm(ə)nt/ | [🔊](https://dict.youdao.com/dictvoice?audio=implement&type=2)  /ˈɪmplɪmənt/ /ˈɪmpləˌment/ |  ❌ /ɪm'plem(ə)nt/ |
-| integer | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=1)  /'ɪntɪdʒə/ | [🔊](https://dict.youdao.com/dictvoice?audio=integer&type=2)  /ˈɪntɪdʒər/ |  ❌ /ˈɪntaɪgə/ |
-| issue | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=1)  /'ɪʃuː/ | [🔊](https://dict.youdao.com/dictvoice?audio=issue&type=2)  /ˈɪʃuː/ |  ❌ /ˈaɪʃuː/ |
 | Java | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=1)  /'dʒɑːvə/ | [🔊](https://dict.youdao.com/dictvoice?audio=java&type=2)  /ˈdʒɑːvə/ |  |
 | jpg| [🔊](https://dict.youdao.com/dictvoice?audio=JPEG&type=1)  /'dʒeɪpeɡ/ | [🔊](https://dict.youdao.com/dictvoice?audio=JPEG&type=2)  /'dʒeɪpeɡ/ |  ❌ /ˈdʒeɪˈpi:ˈdʒiː/ |
-| key | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=1)  /kiː/ | [🔊](https://dict.youdao.com/dictvoice?audio=key&type=2)  /kiː/ |  ❌ /kei/ |
 | Kubernetes* | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kubз'netɪs/ | [🔊](https://dict.youdao.com/dictvoice?audio=Kubernetes&type=2)  /kuːbə˞'netiz/ |   |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
 | linear | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=1)  /'lɪnɪə/ | [🔊](https://dict.youdao.com/dictvoice?audio=linear&type=2)  /ˈlɪniər/ |  ❌ /'laɪə/ |
