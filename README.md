@@ -15,6 +15,7 @@
 | Dijkstra | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)  Dutch:/ˈdɛikstra/ English:/ˈdaɪkstrə/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/8/85/Dijkstra.ogg)    |   |
 | Django | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=1)  /ˈdʒæŋɡoʊ/ | [🔊](https://dict.youdao.com/dictvoice?audio=Django&type=2)  /ˈdʒæŋɡoʊ/ |  ❌ /diˈdʒæŋɡoʊ/ |
 | dotnet | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=1)  /dɒtnet/ | [🔊](https://dict.youdao.com/dictvoice?audio=dotnet&type=2)  /dɑːtnet/ |  ❌ /daʊtnet/ |
+| facade | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | fedora | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=1)  /fɪ'dɔːrə/ | [🔊](https://dict.youdao.com/dictvoice?audio=fedora&type=2)  /fɪˈdɔːrə/ |  ❌ /'fedərə/ |
 | Git | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=1)  /ɡɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=git&type=2)  /ɡɪt/ |  ❌ /dʒɪt/ |
 | GNU | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /gnu:/ | [🔊](https://upload.wikimedia.org/wikipedia/commons/2/24/En-gnu.ogg)  /nuː,njuː/ |  |
@@ -42,16 +43,16 @@
 | async | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=1) /əˈsɪŋk/ | [🔊](https://dict.youdao.com/dictvoice?audio=async&type=2) /æˈsɪŋk/ | ❌ /'æsɪŋk/ |
 | bind | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=1)  /baɪnd/ | [🔊](https://dict.youdao.com/dictvoice?audio=bind&type=2)  /baɪnd/ |  ❌ /bɪnd/ |
 | cache | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=1)  /kæʃ/ | [🔊](https://dict.youdao.com/dictvoice?audio=cache&type=2)  /kæʃ/ |  ❌ /kætʃ/ |
+| coordinate | [🔊](https://dict.youdao.com/dictvoice?audio=coordinate&type=1)  /kəʊˈɔːdɪneɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=coordinate&type=2)  /koʊˈɔːrdɪneɪt/ |  ❌  |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
-| deny | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=1)  /dɪ'naɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=2)  /dɪˈnaɪ/ |  ❌ /'dæni/ |
 | deprecate | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=1) /ˈdeprəkeɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=2) /ˈdeprəkeɪt/ |  |
 | deque | [🔊](https://dict.youdao.com/dictvoice?audio=deque&type=1)  /'dek/ | [🔊](https://dict.youdao.com/dictvoice?audio=deque&type=2)  /dɛk/ |  ❌ /di'kju/ |
-| doc | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=1)  /dɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=doc&type=2)  /dɒk/ |  ❌ /daʊk/ |
+| discrepancy | [🔊](https://dict.youdao.com/dictvoice?audio=discrepancy&type=1)  /dɪˈskrepənsi/ | [🔊](https://dict.youdao.com/dictvoice?audio=discrepancy&type=2)  /dɪˈskrepənsi/ |  ❌  |
+| empirical | [🔊](https://dict.youdao.com/dictvoice?audio=empirical&type=1)  /[ɪmˈpɪrɪkl/ | [🔊](https://dict.youdao.com/dictvoice?audio=empirical&type=2)  /[ɪmˈpɪrɪkl] / |  ❌  |
 | ephemeral | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=1)  /[ɪˈfemərəl/ | [🔊](https://dict.youdao.com/dictvoice?audio=ephemeral&type=2)  /[ɪˈfemərəl] / |  ❌ /daʊtnet/ |
 | epoch  | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=1)  /ˈiːpɒk/ | [🔊](https://dict.youdao.com/dictvoice?audio=epoch&type=2)  /ˈepək/ |  ❌ /'ɛpətʃ/ |
 | execute | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=1) /ˈeksɪkjuːt/ | [🔊](https://dict.youdao.com/dictvoice?audio=execute&type=2) /ˈeksɪkjuːt/ |  |
 | executor | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=1) /ɪɡˈzekjətə(r)/ | [🔊](https://dict.youdao.com/dictvoice?audio=executor&type=2) /ɪɡˈzekjətər/ |  |
-| facade | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=1)  /fə'sɑːd/ | [🔊](https://dict.youdao.com/dictvoice?audio=facade&type=2)  /fəˈsɑːd/ |  ❌ /'feikeid/ |
 | format | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=1)  /'fɔːmæt/ | [🔊](https://dict.youdao.com/dictvoice?audio=format&type=2)  /ˈfɔːrmæt/ |  ❌ /fɔ'mæt/ |
 | gauge | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=1) /ɡeɪdʒ/ | [🔊](https://dict.youdao.com/dictvoice?audio=gauge&type=2) /ɡeɪdʒ/ |  ❌ /ɡɑudʒ/ |
 | lambda | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=1)  /ˈlæmdə/ | [🔊](https://dict.youdao.com/dictvoice?audio=lambda&type=2)  /ˈlæmdə/ |  ❌ /ˈlɒŋmdɑ/ |
